@@ -42,11 +42,11 @@ authors = [
     {name = "Andy Patterson", email = "andnpatterson@gmail.com"},
 ]
 dependencies = [
-    "numpy>=1.26,<=2.2.5",
+    "numpy>=1.26,<=2.2.6",
     "filelock~=3.13",
     "polars~=1.23",
     "connectorx~=0.4",
-    "pyarrow~=19.0",
+    "pyarrow~=20.0",
     "sqlalchemy>=2.0.40",
     "sqlalchemy-utils>=0.41.2",
 ]
